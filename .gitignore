@@ -1,0 +1,3 @@
+/bin/*.js
+/node_modules
+/dump

@@ -1,0 +1,5 @@
+-lib coconut.vdom
+-cp src
+-js bin/app.js
+-main Main
+-D no-deprecation-warnings

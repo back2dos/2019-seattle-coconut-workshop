@@ -1,0 +1,12 @@
+{
+  "name": "2019-seattle-coconut-workshop",
+  "version": "0.0.0",
+  "description": "Seattle Macro Workshop",
+  "dependencies": {
+    "lix": "^15.3.12"
+  },
+  "scripts": {
+    "postinstall": "lix download",
+    "build": "haxe build.hxml"
+  }
+}
